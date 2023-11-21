@@ -1,3 +1,4 @@
 Hello Git!
 Kurwa! Why I must choosen work directory when i start work? 
 New line
+12345
