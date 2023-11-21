@@ -1,1 +1,2 @@
 Hello Git!
+Kurwa! Why I must choosen work directory when i start work? 
