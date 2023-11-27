@@ -3,3 +3,4 @@ Kurwa! Why I must choosen work directory when i start work?
 New line
 12345
 branch
+I m learning rebase command! 27/11/23
