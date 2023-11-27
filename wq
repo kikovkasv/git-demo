@@ -1,0 +1,68 @@
+[33mcommit 010d94a046cfd7d389bc8ff0135ca817eba9ca0b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bcc3ad3 a183f9e
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Thu Nov 23 06:47:50 2023 +0200
+
+    Merge branch 'dev'
+    
+    <<<<<<< HEAD
+
+[33mcommit a183f9e1c337e5b9afeb203719c66fd35c06d0af[m[33m ([m[1;32mdev[m[33m)[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Thu Nov 23 06:39:11 2023 +0200
+
+    Added new line
+
+[33mcommit bcc3ad31b8b7064b47715911dd3b52353a34e533[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Thu Nov 23 06:36:18 2023 +0200
+
+    Change file
+
+[33mcommit e350adde43fbe8a43d3d5cf57601a2fa86c0c740[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Thu Nov 23 06:31:33 2023 +0200
+
+    Added new file
+
+[33mcommit e068dbfa8625e0278a1ce705bf8659f952a503a7[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Thu Nov 23 06:27:23 2023 +0200
+
+    Test Branch
+
+[33mcommit cd1f32237f18a9a5c5fd01a5f0fb01c3285c8e13[m[33m ([m[1;32mnewbranch[m[33m, [m[1;32mf3[m[33m, [m[1;32mf2[m[33m, [m[1;32mf1[m[33m)[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Wed Nov 22 07:00:46 2023 +0200
+
+    Wrong commit
+
+[33mcommit d934c45a4b8d58a002d6c2a531dfc16c8163f6d5[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Tue Nov 21 07:10:33 2023 +0200
+
+    New commit
+
+[33mcommit 0989e03f805335843f91c02848afbca09912b3ab[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Tue Nov 21 07:06:16 2023 +0200
+
+    New File
+
+[33mcommit 4d9a042b615a055a5b08e80f492cc2b3e8752fc0[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Tue Nov 21 07:01:37 2023 +0200
+
+    Checking GIT status
+
+[33mcommit c9c90b635a059187edc163fca37c2aa24e193bc2[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Tue Nov 21 06:57:04 2023 +0200
+
+    Secondary Commit
+
+[33mcommit a552235a1af20217bf3d89201253e49768f25a11[m
+Author: Serhii Kikovka <kikovkasv@gmail.com>
+Date:   Tue Nov 21 06:51:15 2023 +0200
+
+    First commit
